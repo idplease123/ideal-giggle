@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is the firstmost line
-=======
-This is the firstever line
->>>>>>> 35f0411 (Changed first to firstever)
